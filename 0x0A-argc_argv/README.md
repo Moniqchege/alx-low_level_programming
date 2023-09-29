@@ -1,0 +1,1 @@
+This repository provides a concise demonstration of utilizing the argc and argv parameters in C programming. In many C programs, especially those involving command line operations, understanding these parameters is essential. argc represents the count of command line arguments passed to the program, and argv is an array of strings containing these arguments. 
